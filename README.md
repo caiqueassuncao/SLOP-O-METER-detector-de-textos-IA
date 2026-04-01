@@ -11,10 +11,8 @@ Detector de padrões linguísticos de IA rodando 100% no navegador, sem dependê
 3. Cole o texto no painel esquerdo
 4. Clique em **Analisar** (ou `Ctrl+Enter`)
 5. Veja o score e os sinais detalhados no painel direito
-   OU
-
-  6.Acesse o site já no ar https://caiqueassuncao.github.io/SLOP-O-METER-detector-de-textos-IA/   
-
+6. OU Acesse o site já no ar https://caiqueassuncao.github.io/SLOP-O-METER-detector-de-textos-IA/  
+  
 
 ---
 
