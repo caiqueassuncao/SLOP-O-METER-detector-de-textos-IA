@@ -1,4 +1,4 @@
-# AI Slop Detector
+# SLOP-O-METER Detector
 
 Detector de padrões linguísticos de IA rodando 100% no navegador, sem dependências externas, sem servidor, sem API.
 
@@ -6,7 +6,7 @@ Detector de padrões linguísticos de IA rodando 100% no navegador, sem dependê
 
 ## Como usar
 
-1. Baixe o arquivo `ai_slop_detector.html`
+1. Baixe o arquivo `aislop.html`
 2. Abra direto no navegador (duplo clique no arquivo)
 3. Cole o texto no painel esquerdo
 4. Clique em **Analisar** (ou `Ctrl+Enter`)
