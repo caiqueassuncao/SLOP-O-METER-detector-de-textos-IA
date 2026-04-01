@@ -12,7 +12,6 @@ Detector de padrões linguísticos de IA rodando 100% no navegador, sem dependê
 4. Clique em **Analisar** (ou `Ctrl+Enter`)
 5. Veja o score e os sinais detalhados no painel direito
 
-Não precisa instalar nada. Funciona offline.
 
 ---
 
@@ -60,17 +59,3 @@ O detector roda 9 sinais heurísticos sobre o texto e combina os resultados num 
 - Funciona offline
 
 ---
-
-## Publicação
-
-Para publicar online, as opções mais simples são:
-
-**Netlify Drop** — arrasta o arquivo em [netlify.com/drop](https://netlify.com/drop), gera link na hora.
-
-**GitHub Pages** — sobe o arquivo como `index.html` num repositório e habilita Pages em Settings.
-
----
-
-## Licença
-
-MIT — use, modifique e distribua à vontade.
